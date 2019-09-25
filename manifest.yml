@@ -8,4 +8,4 @@ applications:
   disk_quota: 1024M
   services:
   - iot1sample-cloudantNoSQLDB
-  - iot1sample-iotf-service
+  コメント追加
