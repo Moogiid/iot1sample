@@ -9,3 +9,4 @@ applications:
   services:
   - iot1sample-cloudantNoSQLDB
   コメント追加
+  コメント2追加
